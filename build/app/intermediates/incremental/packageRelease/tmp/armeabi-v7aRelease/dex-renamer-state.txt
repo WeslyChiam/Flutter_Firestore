@@ -1,0 +1,4 @@
+#Thu Mar 31 14:41:04 MYT 2022
+base.0=/home/weslychiam/Project/flutter_firestore/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
